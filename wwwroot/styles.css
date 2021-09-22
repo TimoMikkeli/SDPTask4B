@@ -11,14 +11,14 @@ input[type=text], select {
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
-    border: 1px solid #ccc;
+    border: 1px solid #a8a832;
     border-radius: 4px;
     box-sizing: border-box;
 }
 
 input[type=submit] {
     width: 100%;
-    background-color: #4CAF50;
+    background-color: #32a875;
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
@@ -36,3 +36,4 @@ div {
     background-color: #f2f2f2;
     padding: 20px;
 }
+
